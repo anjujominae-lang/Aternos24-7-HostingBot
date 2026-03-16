@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "aadriac's killer",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "aadriac.aternos.me",
     "port": 28788,
-    "version": "1.21.11"
+    "version": "2.2"
   },
   "position": {
     "enabled": true,
